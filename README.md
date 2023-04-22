@@ -1,2 +1,2 @@
-# goit-js-hw-06
+https://olgaakopec.github.io/goit-js-hw-06/
  
